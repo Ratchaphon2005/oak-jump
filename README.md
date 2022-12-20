@@ -17,4 +17,8 @@ unity (2021.3.16f1)
 # hand-tracking
 https://google.github.io/mediapipe/solutions/hands.html
 # *note
-เวลาเล่นวางมือไม่ให้ไกลเกินไปนะครับ
+เวลาเล่นวางมือไม่ให้ไกลเกินไปนะครับ<br />
+และก็ตัว project นี้ผมยังไม่ได้ buiํld มานะครับ <br /><br />
+Thank you! (っ◔◡◔)っ ❤
+<br />
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
