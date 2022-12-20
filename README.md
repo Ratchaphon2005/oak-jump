@@ -16,3 +16,5 @@ unity (2021.3.16f1)
 8. run and enjoy!
 # hand-tracking
 https://google.github.io/mediapipe/solutions/hands.html
+# *note
+เวลาเล่นวางมือไม่ให้ไกลเกินไปนะครับ
